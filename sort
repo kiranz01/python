@@ -1,0 +1,8 @@
+lis1 = [3,8,5,45,25]
+lis2=["bmw","vw","maruti","ferrari"]
+
+lis1.sort()
+lis2.sort()
+
+print(lis1)
+print(lis2)
